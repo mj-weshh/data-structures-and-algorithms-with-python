@@ -5,21 +5,21 @@
 This repository contains two Python scripts, `data_structures.py` and `algorithms.py`, designed to serve as quick references for fundamental data structures and algorithms in Python.
 
 ## data_structures.py
-####Contains:
-Lists
-Tuples
-Sets
-Dictionaries
-Stacks and Queues
+#### Contains:
+Lists 
+Tuples 
+Sets 
+Dictionaries 
+Stacks and Queues 
 
 ## algorithms.py
 
 ### Sorting Algorithms
-Bubble Sort
+Bubble Sort 
 Quick Sort
 
 ### Searching Algorithms
-Binary Search
+Binary Search 
 Linear Search
 
 ## Usage
