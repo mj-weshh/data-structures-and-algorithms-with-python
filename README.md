@@ -6,20 +6,20 @@ This repository contains two Python scripts, `data_structures.py` and `algorithm
 
 ## data_structures.py
 #### Contains:
-Lists 
-Tuples 
-Sets 
-Dictionaries 
-Stacks and Queues 
+Lists, 
+Tuples,  
+Sets, 
+Dictionaries, 
+Stacks and Queues.
 
 ## algorithms.py
 
 ### Sorting Algorithms
-Bubble Sort 
-Quick Sort
+Bubble Sort, &
+Quick Sort.
 
 ### Searching Algorithms
-Binary Search 
+Binary Search, &
 Linear Search
 
 ## Usage
